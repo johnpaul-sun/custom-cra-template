@@ -1,40 +1,27 @@
 {
-  "name": "react-app",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@reduxjs/toolkit": "^1.8.1",
-    "@testing-library/jest-dom": "^5.16.4",
-    "@testing-library/react": "^13.2.0",
-    "@testing-library/user-event": "^13.5.0",
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0",
-    "react-redux": "^8.0.1",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+  "name": "cra-template-impaulintech-redux",
+  "version": "1.1.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "redux"
+  ],
+  "description": "The base template for Create React App with Redux folder structure dedicated for the creator of this template.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pong-sun/custom-cra-template.git",
+    "directory": "packages/cra-template"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+  "bugs": {
+    "url": "https://github.com/pong-sun/custom-cra-template.git"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
