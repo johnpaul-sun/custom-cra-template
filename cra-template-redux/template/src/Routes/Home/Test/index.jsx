@@ -61,10 +61,10 @@ export default function Main() {
               <p>
                 &gt;&nbsp;
                 <a
-                  href="https://www.npmjs.com/package/cra-template-impaulintech-useContext"
+                  href="https://www.npmjs.com/package/cra-template-impaulintech-usecontext"
                   target="_new"
                 >
-                  npx create-react-app --template impaulintech-useContext
+                  npx create-react-app --template impaulintech-usecontext
                 </a>
               </p>
             </div>
