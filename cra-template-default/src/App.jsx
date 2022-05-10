@@ -3,7 +3,7 @@ import * as Routes from "./Routes";
 function App() {
   return (
     <>
-      <Routes.Main />
+      <Routes.Home />
     </>
   );
 }
