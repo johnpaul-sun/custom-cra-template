@@ -22,14 +22,18 @@ export default function Main() {
               and I tell computers what to do.
             </h1>
             <p>
-              Welcome to my <strong>default</strong> custom CRA-Template at...
+              Welcome to my <strong style={{ opacity: 0.69 }}>default</strong>{" "}
+              custom CRA-Template running at...
               <br />
-              <strong>{window.location.host}</strong>
+              &gt;&nbsp;
+              <strong style={{ opacity: 0.9 }}>{window.location.host}</strong>
             </p>
             <p>
-              This is a customized <strong>"create-react-app"</strong> template.
-              I modified the folder structure to make file handling more
-              manageable and to save time when setting it up.
+              This is a customized &nbsp;
+              <strong style={{ opacity: 0.69 }}>"create-react-app"</strong>{" "}
+              template. I modified the folder structure to make file handling
+              more manageable and to save time when setting it up for a new
+              project.
             </p>
             <div>
               <p>Checkout more of my custom templates.</p>
